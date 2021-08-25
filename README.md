@@ -20,6 +20,6 @@ lets make a list again
 *observe
 
 ------------------
-Link to[Google][https://wwww.google.com]
+Link to[Google][https://www.google.com]
 
 Link to the other page [second][second.md]
