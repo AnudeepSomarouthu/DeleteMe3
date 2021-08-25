@@ -16,3 +16,10 @@ lets make a list again
  * save 
  * Comit
 2.good summary
+*push
+*observe
+
+------------------
+Link to[Google][https://wwww.google.com]
+
+Link to the other page [second][second.md]
